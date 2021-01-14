@@ -2,7 +2,7 @@
 
 
 ## 설명
-`[utterances](https://github.com/apps/utterances)🔮`를 활용한 깃 블로그 댓글 저장소이다. 
+[utterances](https://github.com/apps/utterances){:.bg-grey.text-black}🔮를 활용한 깃 블로그 댓글 저장소이다. 
 
 블로그에 달린 댓글은 본 저장소의 Issue 탭에 저장되어 쉽게 관리할 수 있다.
 
